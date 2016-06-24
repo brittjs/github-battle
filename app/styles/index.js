@@ -5,7 +5,6 @@ var styles = {
   space: {
     marginTop: '20px',
   }
-
 }
 
 module.exports = styles;
